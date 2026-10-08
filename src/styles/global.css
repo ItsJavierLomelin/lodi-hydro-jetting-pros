@@ -309,3 +309,5 @@ img { max-width:100%; }
 .card-icon{color:#a63f00!important}
 
 @media(max-width:600px){[data-parallax-stage]>.fx-circle,.hero .fx-circle,.hero-inner .fx-circle,.hero-form-wrap .fx-circle{display:none!important}}
+
+@media(max-width:600px){.fx-grid-dots{display:none!important}}
