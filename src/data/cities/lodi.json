@@ -162,7 +162,7 @@
   },
   "pages": {
     "grease-and-sludge": {
-      "h1": "Grease and Sludge in Lodi, OH",
+      "h1": "Grease and Sludge Hydro Jetting in Lodi, OH",
       "title": "Grease and Sludge | Lodi Hydro Jetting Pros",
       "desc": "Kitchen use can leave deposits that keep narrowing a suitable line. Drain assessment and hydro jetting requests in Lodi.",
       "intro": "A slow sink does not prove grease is the cause. Report what the sink handles and whether other fixtures react before choosing a cleaning method. The historical walking tour places nineteenth-century houses along Medina Street.",
@@ -196,7 +196,7 @@
       ]
     },
     "tree-root-intrusions": {
-      "h1": "Tree Root Intrusions in Lodi, OH",
+      "h1": "Lodi Tree Root Drain Cleaning",
       "title": "Tree Root Intrusions | Lodi Hydro Jetting Pros",
       "desc": "Roots require an assessment of the opening that allowed them into the pipe. Drain assessment and hydro jetting requests in Lodi.",
       "intro": "Visible trees are not proof of roots inside a drain. Camera findings and the location of a joint or defect are more useful than guessing from the landscaping. Lodi's walking tour lists historic homes on Church Street.",
@@ -230,7 +230,7 @@
       ]
     },
     "recurring-clogs": {
-      "h1": "Recurring Clogs in Lodi, OH",
+      "h1": "Hydro Jetting for Recurring Clogs in Lodi",
       "title": "Recurring Clogs | Lodi Hydro Jetting Pros",
       "desc": "A recurring blockage deserves a record of what previous cleaning did and did not establish. Drain assessment and hydro jetting requests in Lodi.",
       "intro": "Describe how long flow improved after the last cleaning. Note which fixtures reacted first and whether the same pattern returned or the symptom changed. The tour documents historic houses and former shops along Bank Street.",
@@ -264,7 +264,7 @@
       ]
     },
     "mineral-buildup": {
-      "h1": "Mineral Buildup in Lodi, OH",
+      "h1": "Mineral Buildup in Lodi Drains: Assess the Line",
       "title": "Mineral Buildup | Lodi Hydro Jetting Pros",
       "desc": "Deposits should be identified before a method is chosen. Drain assessment and hydro jetting requests in Lodi.",
       "intro": "A narrowing drain may involve deposits, debris or a structural problem. An inspection should distinguish them rather than infer mineral buildup from the water supply or the street address. The walking tour includes the former opera house and several historic homes on Wooster Street.",
@@ -298,7 +298,7 @@
       ]
     },
     "preventative-maintenance": {
-      "h1": "Preventative Maintenance in Lodi, OH",
+      "h1": "Lodi Preventative Hydro Jetting Services",
       "title": "Preventative Maintenance | Lodi Hydro Jetting Pros",
       "desc": "Drain maintenance should follow actual use and inspection findings rather than a neighborhood-wide timetable. Drain assessment and hydro jetting requests in Lodi.",
       "intro": "Keep records of prior blockages, accessible cleanouts and changes in occupancy or building use. Those details help make a maintenance discussion specific to the property. Harris Street includes the historical society's location and buildings described in the walking tour.",
@@ -472,7 +472,14 @@
           "h": "Drain cleaning around Medina Street",
           "ps": [
             "The historical walking tour places nineteenth-century houses along Medina Street.",
-            "This page covers a older residential street inside Lodi. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a older residential street inside Lodi. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "Repair records for a historic house",
+          "ps": [
+            "The walking tour places several older houses on Medina Street. Where a home has had partial drain replacements, keep those records with the current symptoms. The inspection needs to identify the transition between materials if accessible, rather than treat the entire route as one original pipe."
           ]
         },
         {
@@ -518,6 +525,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The historical walking tour places nineteenth-century houses along Medina Street. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about repair records for a historic house?",
+          "a": "The walking tour places several older houses on Medina Street. Where a home has had partial drain replacements, keep those records with the current symptoms. The inspection needs to identify the transition between materials if accessible, rather than treat the entire route as one original pipe."
         }
       ],
       "cta": "Request Hydro Jetting near Medina Street",
@@ -526,7 +537,7 @@
     {
       "slug": "church-street",
       "name": "Church Street",
-      "h1": "Hydro Jetting in Church Street, Lodi, OH",
+      "h1": "Hydro Jetting in Church Street, Lodi, OH: Drain Planning",
       "title": "Church Street Hydro Jetting | Lodi Hydro Jetting Pros",
       "description": "Drain-planning advice for Church Street in Lodi, Ohio, with inspection questions and a service request form.",
       "intro": "Lodi's walking tour lists historic homes on Church Street.",
@@ -536,7 +547,14 @@
           "h": "Drain cleaning around Church Street",
           "ps": [
             "Lodi's walking tour lists historic homes on Church Street.",
-            "This page covers a established residential corridor inside Lodi. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a established residential corridor inside Lodi. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "A household line with an unknown cleanout",
+          "ps": [
+            "Older houses described on Church Street do not establish where an individual cleanout is located. If access is unknown, report that before arranging work. Avoid opening unsafe covers; ask what can be inspected from a suitable accessible point and what remains unseen."
           ]
         },
         {
@@ -582,6 +600,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "Lodi's walking tour lists historic homes on Church Street. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about a household line with an unknown cleanout?",
+          "a": "Older houses described on Church Street do not establish where an individual cleanout is located. If access is unknown, report that before arranging work. Avoid opening unsafe covers; ask what can be inspected from a suitable accessible point and what remains unseen."
         }
       ],
       "cta": "Request Hydro Jetting near Church Street",
@@ -590,7 +612,7 @@
     {
       "slug": "bank-street",
       "name": "Bank Street",
-      "h1": "Hydro Jetting in Bank Street, Lodi, OH",
+      "h1": "Hydro Jetting in Bank Street, Lodi, OH | For Homeowners",
       "title": "Bank Street Hydro Jetting | Lodi Hydro Jetting Pros",
       "description": "Drain-planning advice for Bank Street in Lodi, Ohio, with inspection questions and a service request form.",
       "intro": "The tour documents historic houses and former shops along Bank Street.",
@@ -600,7 +622,14 @@
           "h": "Drain cleaning around Bank Street",
           "ps": [
             "The tour documents historic houses and former shops along Bank Street.",
-            "This page covers a mixed residential and commercial history inside Lodi. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a mixed residential and commercial history inside Lodi. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "A drain after a change of building use",
+          "ps": [
+            "Bank Street\u2019s tour includes houses and former shops. A present-day business should describe current sinks and any shared drain with adjoining space. If grease buildup is suspected, ask whether it is actually visible and who controls access to the section beyond the fixtures."
           ]
         },
         {
@@ -646,6 +675,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The tour documents historic houses and former shops along Bank Street. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about a drain after a change of building use?",
+          "a": "Bank Street\u2019s tour includes houses and former shops. A present-day business should describe current sinks and any shared drain with adjoining space. If grease buildup is suspected, ask whether it is actually visible and who controls access to the section beyond the fixtures."
         }
       ],
       "cta": "Request Hydro Jetting near Bank Street",
@@ -654,7 +687,7 @@
     {
       "slug": "wooster-street",
       "name": "Wooster Street",
-      "h1": "Hydro Jetting in Wooster Street, Lodi, OH",
+      "h1": "Hydro Jetting in Wooster Street, Lodi, OH: Assess the Line",
       "title": "Wooster Street Hydro Jetting | Lodi Hydro Jetting Pros",
       "description": "Drain-planning advice for Wooster Street in Lodi, Ohio, with inspection questions and a service request form.",
       "intro": "The walking tour includes the former opera house and several historic homes on Wooster Street.",
@@ -664,7 +697,14 @@
           "h": "Drain cleaning around Wooster Street",
           "ps": [
             "The walking tour includes the former opera house and several historic homes on Wooster Street.",
-            "This page covers a mixed-use street area inside Lodi. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a mixed-use street area inside Lodi. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "Several fixtures in a mixed-use building",
+          "ps": [
+            "The walking tour\u2019s former opera house and homes show different historic uses on Wooster Street. In a building with multiple uses or occupants, identify which fixtures react together. Permission from the person responsible for common space may be needed to inspect a shared section."
           ]
         },
         {
@@ -710,6 +750,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The walking tour includes the former opera house and several historic homes on Wooster Street. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about several fixtures in a mixed-use building?",
+          "a": "The walking tour\u2019s former opera house and homes show different historic uses on Wooster Street. In a building with multiple uses or occupants, identify which fixtures react together. Permission from the person responsible for common space may be needed to inspect a shared section."
         }
       ],
       "cta": "Request Hydro Jetting near Wooster Street",
@@ -718,7 +762,7 @@
     {
       "slug": "harris-street",
       "name": "Harris Street",
-      "h1": "Hydro Jetting in Harris Street, Lodi, OH",
+      "h1": "Hydro Jetting in Harris Street, Lodi, OH | For Property Managers",
       "title": "Harris Street Hydro Jetting | Lodi Hydro Jetting Pros",
       "description": "Drain-planning advice for Harris Street in Lodi, Ohio, with inspection questions and a service request form.",
       "intro": "Harris Street includes the historical society's location and buildings described in the walking tour.",
@@ -728,7 +772,14 @@
           "h": "Drain cleaning around Harris Street",
           "ps": [
             "Harris Street includes the historical society's location and buildings described in the walking tour.",
-            "This page covers a central historic street inside Lodi. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a central historic street inside Lodi. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "A central building and a returning clog",
+          "ps": [
+            "Harris Street\u2019s documented historic buildings provide a setting for a drain request, not a diagnosis. If a clog returns, record what the previous visit reached and how long the improvement lasted. Ask whether the new assessment will establish the cause rather than merely open the same route."
           ]
         },
         {
@@ -774,6 +825,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "Harris Street includes the historical society's location and buildings described in the walking tour. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about a central building and a returning clog?",
+          "a": "Harris Street\u2019s documented historic buildings provide a setting for a drain request, not a diagnosis. If a clog returns, record what the previous visit reached and how long the improvement lasted. Ask whether the new assessment will establish the cause rather than merely open the same route."
         }
       ],
       "cta": "Request Hydro Jetting near Harris Street",
@@ -782,7 +837,7 @@
     {
       "slug": "broadway-street",
       "name": "Broadway Street",
-      "h1": "Hydro Jetting in Broadway Street, Lodi, OH",
+      "h1": "Hydro Jetting in Broadway Street, Lodi, OH: Cleaning Options",
       "title": "Broadway Street Hydro Jetting | Lodi Hydro Jetting Pros",
       "description": "Drain-planning advice for Broadway Street in Lodi, Ohio, with inspection questions and a service request form.",
       "intro": "The historical society identifies a nineteenth-century house on Broadway Street.",
@@ -792,7 +847,14 @@
           "h": "Drain cleaning around Broadway Street",
           "ps": [
             "The historical society identifies a nineteenth-century house on Broadway Street.",
-            "This page covers a residential street area inside Lodi. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a residential street area inside Lodi. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "A residence with updated indoor fixtures",
+          "ps": [
+            "A nineteenth-century house appears in the Broadway Street walking-tour record. New indoor fittings do not show whether the exterior connection was renewed too. Describe which parts of a renovation are known and keep uncertainty visible when discussing the cleaning method."
           ]
         },
         {
@@ -838,6 +900,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The historical society identifies a nineteenth-century house on Broadway Street. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about a residence with updated indoor fixtures?",
+          "a": "A nineteenth-century house appears in the Broadway Street walking-tour record. New indoor fittings do not show whether the exterior connection was renewed too. Describe which parts of a renovation are known and keep uncertainty visible when discussing the cleaning method."
         }
       ],
       "cta": "Request Hydro Jetting near Broadway Street",
@@ -846,7 +912,7 @@
     {
       "slug": "railroad-street",
       "name": "Railroad Street",
-      "h1": "Hydro Jetting in Railroad Street, Lodi, OH",
+      "h1": "Hydro Jetting in Railroad Street, Lodi, OH | Drain Care",
       "title": "Railroad Street Hydro Jetting | Lodi Hydro Jetting Pros",
       "description": "Drain-planning advice for Railroad Street in Lodi, Ohio, with inspection questions and a service request form.",
       "intro": "The walking tour identifies the depot and former public buildings on Railroad Street.",
@@ -856,7 +922,14 @@
           "h": "Drain cleaning around Railroad Street",
           "ps": [
             "The walking tour identifies the depot and former public buildings on Railroad Street.",
-            "This page covers a railroad-era street corridor inside Lodi. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a railroad-era street corridor inside Lodi. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "A former public building with managed access",
+          "ps": [
+            "The depot and former public buildings are documented along Railroad Street. A request at a converted or managed property should name the person who can authorize entry and identify the current wastewater use. Cleaning a private line is separate from responsibility for a public system."
           ]
         },
         {
@@ -902,6 +975,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The walking tour identifies the depot and former public buildings on Railroad Street. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about a former public building with managed access?",
+          "a": "The depot and former public buildings are documented along Railroad Street. A request at a converted or managed property should name the person who can authorize entry and identify the current wastewater use. Cleaning a private line is separate from responsibility for a public system."
         }
       ],
       "cta": "Request Hydro Jetting near Railroad Street",
