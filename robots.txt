@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://itsjavierlomelin.github.io/lodi-hydro-jetting-pros/sitemap.xml
+Sitemap: https://lodihydrojetting.prosapp.site/sitemap.xml
